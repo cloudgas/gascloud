@@ -1,0 +1,2774 @@
+[
+{
+"ID": 1,
+"Codes": "Err",
+"Model": "Ultracom₂ sxi",
+"Description": "User interface fault"
+},
+{
+"ID": 2,
+"Codes": "Err",
+"Model": "Ultracom₂ cxi",
+"Description": "User interface fault"
+},
+{
+"ID": 3,
+"Codes": "Err",
+"Model": "Ultracom₂ 35 store",
+"Description": "User interface fault"
+},
+{
+"ID": 4,
+"Codes": "Err",
+"Model": "Betacom a",
+"Description": "User interface fault"
+},
+{
+"ID": 5,
+"Codes": "F00",
+"Model": "Xtrafast 96/120E1",
+"Description": "No fault"
+},
+{
+"ID": 6,
+"Codes": "F00",
+"Model": "Xtrafast 96/120",
+"Description": "No fault"
+},
+{
+"ID": 7,
+"Codes": "F00",
+"Model": "Ultracom₂ sxi",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 8,
+"Codes": "F00",
+"Model": "Ultracom₂ cxi",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 9,
+"Codes": "F00",
+"Model": "Ultracom₂ 35 store",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 10,
+"Codes": "F00",
+"Model": "Betacom a",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 11,
+"Codes": "F01",
+"Model": "Ultracom₂ sxi",
+"Description": "Return heating temperature sensor fault"
+},
+{
+"ID": 12,
+"Codes": "F01",
+"Model": "Ultracom₂ cxi",
+"Description": "Return heating temperature sensor fault"
+},
+{
+"ID": 13,
+"Codes": "F01",
+"Model": "Ultracom₂ 35 store",
+"Description": "Return heating temperature sensor fault"
+},
+{
+"ID": 14,
+"Codes": "F01",
+"Model": "Betacom a",
+"Description": "Return heating temperature sensor fault"
+},
+{
+"ID": 15,
+"Codes": "F02",
+"Model": "Xtrafast 96/120E1",
+"Description": "Air flow fault"
+},
+{
+"ID": 16,
+"Codes": "F02",
+"Model": "Xtrafast 96/120",
+"Description": "Air flow fault"
+},
+{
+"ID": 17,
+"Codes": "F02",
+"Model": "Ultracom₂ 35 store",
+"Description": "Hot water temperature sensor fault"
+},
+{
+"ID": 18,
+"Codes": "F03",
+"Model": "Ultracom₂ 35 store",
+"Description": "Storage tank temperature sensor fault"
+},
+{
+"ID": 19,
+"Codes": "F04",
+"Model": "Xtrafast 96/120E1",
+"Description": "Ignition fault - flame detection"
+},
+{
+"ID": 20,
+"Codes": "F04",
+"Model": "Xtrafast 96/120",
+"Description": "Ignition fault - flame detection"
+},
+{
+"ID": 21,
+"Codes": "F05",
+"Model": "Xtrafast 96/120E1",
+"Description": "Overheating"
+},
+{
+"ID": 22,
+"Codes": "F05",
+"Model": "Xtrafast 96/120",
+"Description": "Overheating"
+},
+{
+"ID": 23,
+"Codes": "F06",
+"Model": "Xtrafast 96/120E1",
+"Description": "Central heating thermistor/wiring fault"
+},
+{
+"ID": 24,
+"Codes": "F06",
+"Model": "Xtrafast 96/120",
+"Description": "Central heating thermistor/wiring fault"
+},
+{
+"ID": 25,
+"Codes": "F07",
+"Model": "Xtrafast 96/120E1",
+"Description": "Domestic hot water thermistor/wiring fault"
+},
+{
+"ID": 26,
+"Codes": "F07",
+"Model": "Xtrafast 96/120",
+"Description": "Domestic hot water thermistor/wiring fault"
+},
+{
+"ID": 27,
+"Codes": "F08",
+"Model": "Xtrafast 96/120E1",
+"Description": "Storage vessel thermistor/wiring fault"
+},
+{
+"ID": 28,
+"Codes": "F08",
+"Model": "Xtrafast 96/120",
+"Description": "Storage vessel thermistor/wiring fault"
+},
+{
+"ID": 29,
+"Codes": "F09",
+"Model": "Xtrafast 96/120E1",
+"Description": "System pressure sensor fault"
+},
+{
+"ID": 30,
+"Codes": "F09",
+"Model": "Xtrafast 96/120",
+"Description": "System pressure sensor fault"
+},
+{
+"ID": 31,
+"Codes": "F10",
+"Model": "Xtrafast 96/120E1",
+"Description": "Fan fault"
+},
+{
+"ID": 32,
+"Codes": "F10",
+"Model": "Xtrafast 96/120",
+"Description": "Fan fault"
+},
+{
+"ID": 33,
+"Codes": "F10",
+"Model": "Ultracom₂ sxi",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 34,
+"Codes": "F10",
+"Model": "Ultracom₂ cxi",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 35,
+"Codes": "F10",
+"Model": "Ultracom₂ 35 store",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 36,
+"Codes": "F10",
+"Model": "Betacom a",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 37,
+"Codes": "F11",
+"Model": "Xtrafast 96/120E1",
+"Description": "Poor circulation"
+},
+{
+"ID": 38,
+"Codes": "F11",
+"Model": "Xtrafast 96/120",
+"Description": "Poor circulation"
+},
+{
+"ID": 39,
+"Codes": "F11",
+"Model": "Ultracom₂ sxi",
+"Description": "Return heating temperature sensor fault"
+},
+{
+"ID": 40,
+"Codes": "F11",
+"Model": "Ultracom₂ cxi",
+"Description": "Return heating temperature sensor fault"
+},
+{
+"ID": 41,
+"Codes": "F11",
+"Model": "Ultracom₂ 35 store",
+"Description": "Return heating temperature sensor fault"
+},
+{
+"ID": 42,
+"Codes": "F11",
+"Model": "Betacom a",
+"Description": "Return heating temperature sensor fault"
+},
+{
+"ID": 43,
+"Codes": "F12",
+"Model": "Xtrafast 96/120E1",
+"Description": "User interface fault"
+},
+{
+"ID": 44,
+"Codes": "F12",
+"Model": "Xtrafast 96/120",
+"Description": "User interface fault"
+},
+{
+"ID": 45,
+"Codes": "F12",
+"Model": "Ultracom₂ 35 store",
+"Description": "Hot water temperature sensor fault"
+},
+{
+"ID": 46,
+"Codes": "F13",
+"Model": "Xtrafast 96/120E1",
+"Description": "Main pcb fault"
+},
+{
+"ID": 47,
+"Codes": "F13",
+"Model": "Xtrafast 96/120",
+"Description": "Main pcb fault"
+},
+{
+"ID": 48,
+"Codes": "F13",
+"Model": "Ultracom₂ 35 store",
+"Description": "Storage tank temperature sensor fault"
+},
+{
+"ID": 49,
+"Codes": "F14",
+"Model": "Xtrafast 96/120E1",
+"Description": "Central heating flow temperature > 97 degrees"
+},
+{
+"ID": 50,
+"Codes": "F14",
+"Model": "Xtrafast 96/120",
+"Description": "Central heating flow temperature > 97 degrees"
+},
+{
+"ID": 51,
+"Codes": "F15",
+"Model": "Xtrafast 96/120E1",
+"Description": "Gas mechanism fault"
+},
+{
+"ID": 52,
+"Codes": "F15",
+"Model": "Xtrafast 96/120",
+"Description": "Gas mechanism fault"
+},
+{
+"ID": 53,
+"Codes": "F20",
+"Model": "Xtrafast 96/120E1",
+"Description": "Communication fault"
+},
+{
+"ID": 54,
+"Codes": "F20",
+"Model": "Xtrafast 96/120",
+"Description": "Communication fault"
+},
+{
+"ID": 55,
+"Codes": "F20",
+"Model": "Ultracom₂ sxi",
+"Description": "Overheating fault"
+},
+{
+"ID": 56,
+"Codes": "F20",
+"Model": "Ultracom₂ cxi",
+"Description": "Overheating fault"
+},
+{
+"ID": 57,
+"Codes": "F20",
+"Model": "Ultracom₂ 35 store",
+"Description": "Overheating fault"
+},
+{
+"ID": 58,
+"Codes": "F20",
+"Model": "Betacom a",
+"Description": "Overheating fault"
+},
+{
+"ID": 59,
+"Codes": "F22",
+"Model": "Ultracom₂ sxi",
+"Description": "Low water pressure"
+},
+{
+"ID": 60,
+"Codes": "F22",
+"Model": "Ultracom₂ cxi",
+"Description": "Low water pressure"
+},
+{
+"ID": 61,
+"Codes": "F22",
+"Model": "Ultracom₂ 35 store",
+"Description": "Low water pressure"
+},
+{
+"ID": 62,
+"Codes": "F22",
+"Model": "Betacom a",
+"Description": "Low water pressure"
+},
+{
+"ID": 63,
+"Codes": "F23",
+"Model": "Ultracom₂ sxi",
+"Description": "Water circulation fault"
+},
+{
+"ID": 64,
+"Codes": "F23",
+"Model": "Ultracom₂ cxi",
+"Description": "Water circulation fault"
+},
+{
+"ID": 65,
+"Codes": "F23",
+"Model": "Ultracom₂ 35 store",
+"Description": "Water circulation fault"
+},
+{
+"ID": 66,
+"Codes": "F23",
+"Model": "Betacom a",
+"Description": "Water circulation fault"
+},
+{
+"ID": 67,
+"Codes": "F24",
+"Model": "Ultracom₂ sxi",
+"Description": "Water circulation fault"
+},
+{
+"ID": 68,
+"Codes": "F24",
+"Model": "Ultracom₂ cxi",
+"Description": "Water circulation fault"
+},
+{
+"ID": 69,
+"Codes": "F24",
+"Model": "Ultracom₂ 35 store",
+"Description": "Water circulation fault"
+},
+{
+"ID": 70,
+"Codes": "F24",
+"Model": "Betacom a",
+"Description": "Water circulation fault"
+},
+{
+"ID": 71,
+"Codes": "F26",
+"Model": "Ultracom₂ sxi",
+"Description": "Fault in gas valve"
+},
+{
+"ID": 72,
+"Codes": "F26",
+"Model": "Ultracom₂ cxi",
+"Description": "Fault in gas valve"
+},
+{
+"ID": 73,
+"Codes": "F26",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fault in gas valve"
+},
+{
+"ID": 74,
+"Codes": "F26",
+"Model": "Betacom a",
+"Description": "Fault in gas valve"
+},
+{
+"ID": 75,
+"Codes": "F27",
+"Model": "Ultracom₂ sxi",
+"Description": "Flame detection fault"
+},
+{
+"ID": 76,
+"Codes": "F27",
+"Model": "Ultracom₂ cxi",
+"Description": "Flame detection fault"
+},
+{
+"ID": 77,
+"Codes": "F27",
+"Model": "Ultracom₂ 35 store",
+"Description": "Flame detection fault"
+},
+{
+"ID": 78,
+"Codes": "F27",
+"Model": "Betacom a",
+"Description": "Flame detection fault"
+},
+{
+"ID": 79,
+"Codes": "F28",
+"Model": "Ultracom₂ sxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 80,
+"Codes": "F28",
+"Model": "Ultracom₂ cxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 81,
+"Codes": "F28",
+"Model": "Ultracom₂ 35 store",
+"Description": "Ignition fault"
+},
+{
+"ID": 82,
+"Codes": "F28",
+"Model": "Betacom a",
+"Description": "Ignition fault"
+},
+{
+"ID": 83,
+"Codes": "F29",
+"Model": "Ultracom₂ sxi",
+"Description": "Loss of flame during operation"
+},
+{
+"ID": 84,
+"Codes": "F29",
+"Model": "Ultracom₂ cxi",
+"Description": "Loss of flame during operation"
+},
+{
+"ID": 85,
+"Codes": "F29",
+"Model": "Ultracom₂ 35 store",
+"Description": "Loss of flame during operation"
+},
+{
+"ID": 86,
+"Codes": "F29",
+"Model": "Betacom a",
+"Description": "Loss of flame during operation"
+},
+{
+"ID": 87,
+"Codes": "F32",
+"Model": "Ultracom₂ sxi",
+"Description": "Incorrect air pressure"
+},
+{
+"ID": 88,
+"Codes": "F32",
+"Model": "Ultracom₂ cxi",
+"Description": "Incorrect air pressure"
+},
+{
+"ID": 89,
+"Codes": "F32",
+"Model": "Ultracom₂ 35 store",
+"Description": "Incorrect air pressure"
+},
+{
+"ID": 90,
+"Codes": "F32",
+"Model": "Betacom a",
+"Description": "Incorrect air pressure"
+},
+{
+"ID": 91,
+"Codes": "F49",
+"Model": "Ultracom₂ sxi",
+"Description": "EBUS voltage fault"
+},
+{
+"ID": 92,
+"Codes": "F49",
+"Model": "Ultracom₂ cxi",
+"Description": "EBUS voltage fault"
+},
+{
+"ID": 93,
+"Codes": "F49",
+"Model": "Ultracom₂ 35 store",
+"Description": "EBUS voltage fault"
+},
+{
+"ID": 94,
+"Codes": "F49",
+"Model": "Betacom a",
+"Description": "EBUS voltage fault"
+},
+{
+"ID": 95,
+"Codes": "F61",
+"Model": "Ultracom₂ sxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 96,
+"Codes": "F61",
+"Model": "Ultracom₂ cxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 97,
+"Codes": "F61",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fault in the main board"
+},
+{
+"ID": 98,
+"Codes": "F61",
+"Model": "Betacom a",
+"Description": "Fault in the main board"
+},
+{
+"ID": 99,
+"Codes": "F62",
+"Model": "Ultracom₂ sxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 100,
+"Codes": "F62",
+"Model": "Ultracom₂ cxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 101,
+"Codes": "F62",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fault in the main board"
+},
+{
+"ID": 102,
+"Codes": "F62",
+"Model": "Betacom a",
+"Description": "Fault in the main board"
+},
+{
+"ID": 103,
+"Codes": "F63",
+"Model": "Ultracom₂ sxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 104,
+"Codes": "F63",
+"Model": "Ultracom₂ cxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 105,
+"Codes": "F63",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fault in the main board"
+},
+{
+"ID": 106,
+"Codes": "F63",
+"Model": "Betacom a",
+"Description": "Fault in the main board"
+},
+{
+"ID": 107,
+"Codes": "F64",
+"Model": "Ultracom₂ sxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 108,
+"Codes": "F64",
+"Model": "Ultracom₂ cxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 109,
+"Codes": "F64",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fault in the main board"
+},
+{
+"ID": 110,
+"Codes": "F64",
+"Model": "Betacom a",
+"Description": "Fault in the main board"
+},
+{
+"ID": 111,
+"Codes": "F65",
+"Model": "Ultracom₂ sxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 112,
+"Codes": "F65",
+"Model": "Ultracom₂ cxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 113,
+"Codes": "F65",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fault in the main board"
+},
+{
+"ID": 114,
+"Codes": "F65",
+"Model": "Betacom a",
+"Description": "Fault in the main board"
+},
+{
+"ID": 115,
+"Codes": "F67",
+"Model": "Ultracom₂ sxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 116,
+"Codes": "F67",
+"Model": "Ultracom₂ cxi",
+"Description": "Fault in the main board"
+},
+{
+"ID": 117,
+"Codes": "F67",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fault in the main board"
+},
+{
+"ID": 118,
+"Codes": "F67",
+"Model": "Betacom a",
+"Description": "Fault in the main board"
+},
+{
+"ID": 119,
+"Codes": "F68",
+"Model": "Ultracom₂ sxi",
+"Description": "Fluctuation of flame signal"
+},
+{
+"ID": 120,
+"Codes": "F68",
+"Model": "Ultracom₂ cxi",
+"Description": "Fluctuation of flame signal"
+},
+{
+"ID": 121,
+"Codes": "F68",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fluctuation of flame signal"
+},
+{
+"ID": 122,
+"Codes": "F68",
+"Model": "Betacom a",
+"Description": "Fluctuation of flame signal"
+},
+{
+"ID": 123,
+"Codes": "F70",
+"Model": "Ultracom₂ sxi",
+"Description": "User interface incompatible with the main board"
+},
+{
+"ID": 124,
+"Codes": "F70",
+"Model": "Ultracom₂ cxi",
+"Description": "User interface incompatible with the main board"
+},
+{
+"ID": 125,
+"Codes": "F70",
+"Model": "Ultracom₂ 35 store",
+"Description": "User interface incompatible with the main board"
+},
+{
+"ID": 126,
+"Codes": "F70",
+"Model": "Betacom a",
+"Description": "User interface incompatible with the main board"
+},
+{
+"ID": 127,
+"Codes": "F71",
+"Model": "Ultracom₂ sxi",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 128,
+"Codes": "F71",
+"Model": "Ultracom₂ cxi",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 129,
+"Codes": "F71",
+"Model": "Ultracom₂ 35 store",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 130,
+"Codes": "F71",
+"Model": "Betacom a",
+"Description": "Flow heating temperature sensor fault"
+},
+{
+"ID": 131,
+"Codes": "F72",
+"Model": "Ultracom₂ sxi",
+"Description": "Permanent temperature difference between flow and return heating sensors"
+},
+{
+"ID": 132,
+"Codes": "F72",
+"Model": "Ultracom₂ cxi",
+"Description": "Permanent temperature difference between flow and return heating sensors"
+},
+{
+"ID": 133,
+"Codes": "F72",
+"Model": "Ultracom₂ 35 store",
+"Description": "Permanent temperature difference between flow and return heating sensors"
+},
+{
+"ID": 134,
+"Codes": "F72",
+"Model": "Betacom a",
+"Description": "Permanent temperature difference between flow and return heating sensors"
+},
+{
+"ID": 135,
+"Codes": "F73",
+"Model": "Ultracom₂ sxi",
+"Description": "Heating circuit pressure sensor fault"
+},
+{
+"ID": 136,
+"Codes": "F73",
+"Model": "Ultracom₂ cxi",
+"Description": "Heating circuit pressure sensor fault"
+},
+{
+"ID": 137,
+"Codes": "F73",
+"Model": "Ultracom₂ 35 store",
+"Description": "Heating circuit pressure sensor fault"
+},
+{
+"ID": 138,
+"Codes": "F73",
+"Model": "Betacom a",
+"Description": "Heating circuit pressure sensor fault"
+},
+{
+"ID": 139,
+"Codes": "F74",
+"Model": "Ultracom₂ sxi",
+"Description": "Heating circuit pressure sensor fault"
+},
+{
+"ID": 140,
+"Codes": "F74",
+"Model": "Ultracom₂ cxi",
+"Description": "Heating circuit pressure sensor fault"
+},
+{
+"ID": 141,
+"Codes": "F74",
+"Model": "Ultracom₂ 35 store",
+"Description": "Heating circuit pressure sensor fault"
+},
+{
+"ID": 142,
+"Codes": "F74",
+"Model": "Betacom a",
+"Description": "Heating circuit pressure sensor fault"
+},
+{
+"ID": 143,
+"Codes": "F76",
+"Model": "Ultracom₂ sxi",
+"Description": "Thermal fuse fault"
+},
+{
+"ID": 144,
+"Codes": "F76",
+"Model": "Ultracom₂ cxi",
+"Description": "Thermal fuse fault"
+},
+{
+"ID": 145,
+"Codes": "F76",
+"Model": "Ultracom₂ 35 store",
+"Description": "Thermal fuse fault"
+},
+{
+"ID": 146,
+"Codes": "F76",
+"Model": "Betacom a",
+"Description": "Thermal fuse fault"
+},
+{
+"ID": 147,
+"Codes": "F77",
+"Model": "Ultracom₂ sxi",
+"Description": "Fault in gas valve motor"
+},
+{
+"ID": 148,
+"Codes": "F77",
+"Model": "Ultracom₂ cxi",
+"Description": "Fault in gas valve motor"
+},
+{
+"ID": 149,
+"Codes": "F77",
+"Model": "Ultracom₂ 35 store",
+"Description": "Fault in gas valve motor"
+},
+{
+"ID": 150,
+"Codes": "F77",
+"Model": "Betacom a",
+"Description": "Fault in gas valve motor"
+},
+{
+"ID": 151,
+"Codes": "F79",
+"Model": "Ultracom₂ 35 store",
+"Description": "Storage tank temperature sensor fault"
+},
+{
+"ID": 152,
+"Codes": "F81",
+"Model": "Ultracom₂ 35 store",
+"Description": "Overheating of hot water circuit"
+},
+{
+"ID": 153,
+"Codes": "F83",
+"Model": "Ultracom₂ sxi",
+"Description": "No water in the installation"
+},
+{
+"ID": 154,
+"Codes": "F83",
+"Model": "Ultracom₂ cxi",
+"Description": "No water in the installation"
+},
+{
+"ID": 155,
+"Codes": "F83",
+"Model": "Ultracom₂ 35 store",
+"Description": "No water in the installation"
+},
+{
+"ID": 156,
+"Codes": "F83",
+"Model": "Betacom a",
+"Description": "No water in the installation"
+},
+{
+"ID": 157,
+"Codes": "F84",
+"Model": "Ultracom₂ sxi",
+"Description": "Permanent temperature difference between flow and return heating sensors"
+},
+{
+"ID": 158,
+"Codes": "F84",
+"Model": "Ultracom₂ cxi",
+"Description": "Permanent temperature difference between flow and return heating sensors"
+},
+{
+"ID": 159,
+"Codes": "F84",
+"Model": "Ultracom₂ 35 store",
+"Description": "Permanent temperature difference between flow and return heating sensors"
+},
+{
+"ID": 160,
+"Codes": "F84",
+"Model": "Betacom a",
+"Description": "Permanent temperature difference between flow and return heating sensors"
+},
+{
+"ID": 161,
+"Codes": "F85",
+"Model": "Ultracom₂ sxi",
+"Description": "Flow and Return heating sensor fault"
+},
+{
+"ID": 162,
+"Codes": "F85",
+"Model": "Ultracom₂ cxi",
+"Description": "Flow and Return heating sensor fault"
+},
+{
+"ID": 163,
+"Codes": "F85",
+"Model": "Ultracom₂ 35 store",
+"Description": "Flow and Return heating sensor fault"
+},
+{
+"ID": 164,
+"Codes": "F85",
+"Model": "Betacom a",
+"Description": "Flow and Return heating sensor fault"
+},
+{
+"ID": 165,
+"Codes": "F86",
+"Model": "Ultracom₂ sxi",
+"Description": "Underfloor heating contact fault"
+},
+{
+"ID": 166,
+"Codes": "F86",
+"Model": "Ultracom₂ cxi",
+"Description": "Underfloor heating contact fault"
+},
+{
+"ID": 167,
+"Codes": "F86",
+"Model": "Ultracom₂ 35 store",
+"Description": "Underfloor heating contact fault"
+},
+{
+"ID": 168,
+"Codes": "F86",
+"Model": "Betacom a",
+"Description": "Underfloor heating contact fault"
+},
+{
+"ID": 169,
+"Codes": "",
+"Model": "",
+"Description": ""
+},
+{
+"ID": 170,
+"Codes": "F1",
+"Model": "Xtramax HE",
+"Description": "Ignition fault"
+},
+{
+"ID": 171,
+"Codes": "F1",
+"Model": "Ultrapower sxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 172,
+"Codes": "F1",
+"Model": "Ultracom sxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 173,
+"Codes": "F1",
+"Model": "Ultracom hxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 174,
+"Codes": "F1",
+"Model": "Ultracom cx",
+"Description": "Ignition fault"
+},
+{
+"ID": 175,
+"Codes": "F1",
+"Model": "Ultracom cxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 176,
+"Codes": "F1",
+"Model": "sxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 177,
+"Codes": "F1",
+"Model": "SI",
+"Description": "Ignition fault"
+},
+{
+"ID": 178,
+"Codes": "F1",
+"Model": "hxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 179,
+"Codes": "F1",
+"Model": "flexicom sx",
+"Description": "Ignition fault"
+},
+{
+"ID": 180,
+"Codes": "F1",
+"Model": "flexicom hx",
+"Description": "Ignition fault"
+},
+{
+"ID": 181,
+"Codes": "F1",
+"Model": "flexicom cx",
+"Description": "Ignition fault"
+},
+{
+"ID": 182,
+"Codes": "F1",
+"Model": "cxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 183,
+"Codes": "F1",
+"Model": "CI Plus",
+"Description": "Ignition fault"
+},
+{
+"ID": 184,
+"Codes": "F1",
+"Model": "CI",
+"Description": "Ignition fault"
+},
+{
+"ID": 185,
+"Codes": "F10",
+"Model": "Xtramax HE",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 186,
+"Codes": "F10",
+"Model": "Ultrapower sxi",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 187,
+"Codes": "F10",
+"Model": "Ultracom sxi",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 188,
+"Codes": "F10",
+"Model": "Ultracom hxi",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 189,
+"Codes": "F10",
+"Model": "Ultracom cx",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 190,
+"Codes": "F10",
+"Model": "Ultracom cxi",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 191,
+"Codes": "F10",
+"Model": "sxi",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 192,
+"Codes": "F10",
+"Model": "SI",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 193,
+"Codes": "F10",
+"Model": "hxi",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 194,
+"Codes": "F10",
+"Model": "flexicom sx",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 195,
+"Codes": "F10",
+"Model": "flexicom hx",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 196,
+"Codes": "F10",
+"Model": "flexicom cx",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 197,
+"Codes": "F10",
+"Model": "cxi",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 198,
+"Codes": "F10",
+"Model": "CI Plus",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 199,
+"Codes": "F10",
+"Model": "CI",
+"Description": "Central return flow thermistor"
+},
+{
+"ID": 200,
+"Codes": "F11",
+"Model": "Xtramax HE",
+"Description": "Main board connection fault"
+},
+{
+"ID": 201,
+"Codes": "F11",
+"Model": "Ultrapower sxi",
+"Description": "Main board connection fault"
+},
+{
+"ID": 202,
+"Codes": "F11",
+"Model": "Ultracom sxi",
+"Description": "Main board connection fault"
+},
+{
+"ID": 203,
+"Codes": "F11",
+"Model": "Ultracom hxi",
+"Description": "Main board connection fault"
+},
+{
+"ID": 204,
+"Codes": "F11",
+"Model": "Ultracom cx",
+"Description": "Main board connection fault"
+},
+{
+"ID": 205,
+"Codes": "F11",
+"Model": "Ultracom cxi",
+"Description": "Main board connection fault"
+},
+{
+"ID": 206,
+"Codes": "F11",
+"Model": "sxi",
+"Description": "Main board connection fault"
+},
+{
+"ID": 207,
+"Codes": "F11",
+"Model": "SI",
+"Description": "Main board connection fault"
+},
+{
+"ID": 208,
+"Codes": "F11",
+"Model": "hxi",
+"Description": "Main board connection fault"
+},
+{
+"ID": 209,
+"Codes": "F11",
+"Model": "flexicom sx",
+"Description": "Flow and or return thermistor fault"
+},
+{
+"ID": 210,
+"Codes": "F11",
+"Model": "flexicom hx",
+"Description": "Flow and or return thermistor fault"
+},
+{
+"ID": 211,
+"Codes": "F11",
+"Model": "flexicom cx",
+"Description": "Flow and or return thermistor fault"
+},
+{
+"ID": 212,
+"Codes": "F11",
+"Model": "cxi",
+"Description": "Main board connection fault"
+},
+{
+"ID": 213,
+"Codes": "F11",
+"Model": "CI Plus",
+"Description": "Main board connection fault"
+},
+{
+"ID": 214,
+"Codes": "F11",
+"Model": "CI",
+"Description": "Main board connection fault"
+},
+{
+"ID": 215,
+"Codes": "F12",
+"Model": "Xtramax HE",
+"Description": "User interface connection fault"
+},
+{
+"ID": 216,
+"Codes": "F12",
+"Model": "sxi",
+"Description": "Connection fault between main pcb and display pcb"
+},
+{
+"ID": 217,
+"Codes": "F12",
+"Model": "SI",
+"Description": "Connection fault between main pcb and display pcb"
+},
+{
+"ID": 218,
+"Codes": "F12",
+"Model": "hxi",
+"Description": "Connection fault between main pcb and display pcb"
+},
+{
+"ID": 219,
+"Codes": "F12",
+"Model": "cxi",
+"Description": "Connection fault between main pcb and display pcb"
+},
+{
+"ID": 220,
+"Codes": "F12",
+"Model": "CI Plus",
+"Description": "Connection fault between main pcb and display pcb"
+},
+{
+"ID": 221,
+"Codes": "F12",
+"Model": "CI",
+"Description": "Connection fault between main pcb and display pcb"
+},
+{
+"ID": 222,
+"Codes": "F13",
+"Model": "Xtramax HE",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 223,
+"Codes": "F13",
+"Model": "Ultrapower sxi",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 224,
+"Codes": "F13",
+"Model": "Ultracom sxi",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 225,
+"Codes": "F13",
+"Model": "Ultracom hxi",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 226,
+"Codes": "F13",
+"Model": "Ultracom cx",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 227,
+"Codes": "F13",
+"Model": "Ultracom cxi",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 228,
+"Codes": "F13",
+"Model": "sxi",
+"Description": "Main pcb connection fault"
+},
+{
+"ID": 229,
+"Codes": "F13",
+"Model": "SI",
+"Description": "Main pcb connection fault"
+},
+{
+"ID": 230,
+"Codes": "F13",
+"Model": "hxi",
+"Description": "Main pcb connection fault"
+},
+{
+"ID": 231,
+"Codes": "F13",
+"Model": "flexicom sx",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 232,
+"Codes": "F13",
+"Model": "flexicom hx",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 233,
+"Codes": "F13",
+"Model": "flexicom cx",
+"Description": "PCB memory or sensing fault"
+},
+{
+"ID": 234,
+"Codes": "F13",
+"Model": "cxi",
+"Description": "Main pcb connection fault"
+},
+{
+"ID": 235,
+"Codes": "F13",
+"Model": "CI Plus",
+"Description": "Main pcb connection fault"
+},
+{
+"ID": 236,
+"Codes": "F13",
+"Model": "CI",
+"Description": "Main pcb connection fault"
+},
+{
+"ID": 237,
+"Codes": "F14",
+"Model": "Xtramax HE",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 238,
+"Codes": "F14",
+"Model": "Ultrapower sxi",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 239,
+"Codes": "F14",
+"Model": "Ultracom sxi",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 240,
+"Codes": "F14",
+"Model": "Ultracom hxi",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 241,
+"Codes": "F14",
+"Model": "Ultracom cx",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 242,
+"Codes": "F14",
+"Model": "Ultracom cxi",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 243,
+"Codes": "F14",
+"Model": "sxi",
+"Description": "Central heating flow temperature > 95 degrees"
+},
+{
+"ID": 244,
+"Codes": "F14",
+"Model": "SI",
+"Description": "Central heating flow temperature > 95 degrees"
+},
+{
+"ID": 245,
+"Codes": "F14",
+"Model": "hxi",
+"Description": "Central heating flow temperature > 95 degrees"
+},
+{
+"ID": 246,
+"Codes": "F14",
+"Model": "flexicom sx",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 247,
+"Codes": "F14",
+"Model": "flexicom hx",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 248,
+"Codes": "F14",
+"Model": "flexicom cx",
+"Description": "Gas valve control defective"
+},
+{
+"ID": 249,
+"Codes": "F14",
+"Model": "cxi",
+"Description": "Central heating flow temperature > 95 degrees"
+},
+{
+"ID": 250,
+"Codes": "F14",
+"Model": "CI Plus",
+"Description": "Central heating flow temperature > 95 degrees"
+},
+{
+"ID": 251,
+"Codes": "F14",
+"Model": "CI",
+"Description": "Central heating flow temperature > 95 degrees"
+},
+{
+"ID": 252,
+"Codes": "F15",
+"Model": "Ultrapower sxi",
+"Description": "E-bus voltage failure"
+},
+{
+"ID": 253,
+"Codes": "F15",
+"Model": "Ultracom sxi",
+"Description": "E-bus voltage failure"
+},
+{
+"ID": 254,
+"Codes": "F15",
+"Model": "Ultracom hxi",
+"Description": "E-bus voltage failure"
+},
+{
+"ID": 255,
+"Codes": "F15",
+"Model": "Ultracom cx",
+"Description": "E-bus voltage failure"
+},
+{
+"ID": 256,
+"Codes": "F15",
+"Model": "Ultracom cxi",
+"Description": "E-bus voltage failure"
+},
+{
+"ID": 257,
+"Codes": "F15",
+"Model": "sxi",
+"Description": "Gas valve stepper motor fault"
+},
+{
+"ID": 258,
+"Codes": "F15",
+"Model": "SI",
+"Description": "Gas valve stepper motor fault"
+},
+{
+"ID": 259,
+"Codes": "F15",
+"Model": "flexicom sx",
+"Description": "E-bus voltage failure"
+},
+{
+"ID": 260,
+"Codes": "F15",
+"Model": "flexicom hx",
+"Description": "E-bus voltage failure"
+},
+{
+"ID": 261,
+"Codes": "F15",
+"Model": "flexicom cx",
+"Description": "E-bus voltage failure"
+},
+{
+"ID": 262,
+"Codes": "F15",
+"Model": "cxi",
+"Description": "Gas valve stepper motor fault"
+},
+{
+"ID": 263,
+"Codes": "F15",
+"Model": "CI Plus",
+"Description": "Gas valve stepper motor fault"
+},
+{
+"ID": 264,
+"Codes": "F15",
+"Model": "CI",
+"Description": "Gas valve stepper motor fault"
+},
+{
+"ID": 265,
+"Codes": "F16",
+"Model": "Xtramax HE",
+"Description": "Flame detection fault"
+},
+{
+"ID": 266,
+"Codes": "F16",
+"Model": "sxi",
+"Description": "Flame detection fault"
+},
+{
+"ID": 267,
+"Codes": "F16",
+"Model": "SI",
+"Description": "Flame detection fault"
+},
+{
+"ID": 268,
+"Codes": "F16",
+"Model": "hxi",
+"Description": "Flame detection fault"
+},
+{
+"ID": 269,
+"Codes": "F16",
+"Model": "cxi",
+"Description": "Flame detection fault"
+},
+{
+"ID": 270,
+"Codes": "F16",
+"Model": "CI Plus",
+"Description": "Flame detection fault"
+},
+{
+"ID": 271,
+"Codes": "F16",
+"Model": "CI",
+"Description": "Flame detection fault"
+},
+{
+"ID": 272,
+"Codes": "F17",
+"Model": "Xtramax HE",
+"Description": "Power supply is less than 170v"
+},
+{
+"ID": 273,
+"Codes": "F17",
+"Model": "sxi",
+"Description": "Power supply is less than 170v"
+},
+{
+"ID": 274,
+"Codes": "F17",
+"Model": "SI",
+"Description": "Power supply is less than 170v"
+},
+{
+"ID": 275,
+"Codes": "F17",
+"Model": "hxi",
+"Description": "Power supply is less than 170v"
+},
+{
+"ID": 276,
+"Codes": "F17",
+"Model": "cxi",
+"Description": "Power supply is less than 170v"
+},
+{
+"ID": 277,
+"Codes": "F17",
+"Model": "CI Plus",
+"Description": "Power supply is less than 170v"
+},
+{
+"ID": 278,
+"Codes": "F17",
+"Model": "CI",
+"Description": "Power supply is less than 170v"
+},
+{
+"ID": 279,
+"Codes": "F18",
+"Model": "Xtramax HE",
+"Description": "User interface fault"
+},
+{
+"ID": 280,
+"Codes": "F18",
+"Model": "sxi",
+"Description": "User interface fault"
+},
+{
+"ID": 281,
+"Codes": "F18",
+"Model": "SI",
+"Description": "User interface fault"
+},
+{
+"ID": 282,
+"Codes": "F18",
+"Model": "hxi",
+"Description": "User interface fault"
+},
+{
+"ID": 283,
+"Codes": "F18",
+"Model": "cxi",
+"Description": "User interface fault"
+},
+{
+"ID": 284,
+"Codes": "F18",
+"Model": "CI Plus",
+"Description": "User interface fault"
+},
+{
+"ID": 285,
+"Codes": "F18",
+"Model": "CI",
+"Description": "User interface fault"
+},
+{
+"ID": 286,
+"Codes": "F19",
+"Model": "Xtramax HE",
+"Description": "Central heating thermistor unplugged"
+},
+{
+"ID": 287,
+"Codes": "F19",
+"Model": "sxi",
+"Description": "Central heating thermistor unplugged"
+},
+{
+"ID": 288,
+"Codes": "F19",
+"Model": "SI",
+"Description": "Central heating thermistor unplugged"
+},
+{
+"ID": 289,
+"Codes": "F19",
+"Model": "hxi",
+"Description": "Central heating thermistor unplugged"
+},
+{
+"ID": 290,
+"Codes": "F19",
+"Model": "cxi",
+"Description": "Central heating thermistor unplugged"
+},
+{
+"ID": 291,
+"Codes": "F19",
+"Model": "CI Plus",
+"Description": "Central heating thermistor unplugged"
+},
+{
+"ID": 292,
+"Codes": "F19",
+"Model": "CI",
+"Description": "Central heating thermistor unplugged"
+},
+{
+"ID": 293,
+"Codes": "F2",
+"Model": "Xtramax HE",
+"Description": "Fan"
+},
+{
+"ID": 294,
+"Codes": "F2",
+"Model": "sxi",
+"Description": "Fan"
+},
+{
+"ID": 295,
+"Codes": "F2",
+"Model": "SI",
+"Description": "Fan/APS"
+},
+{
+"ID": 296,
+"Codes": "F2",
+"Model": "hxi",
+"Description": "Fan"
+},
+{
+"ID": 297,
+"Codes": "F2",
+"Model": "cxi",
+"Description": "Fan"
+},
+{
+"ID": 298,
+"Codes": "F2",
+"Model": "CI Plus",
+"Description": "Fan/APS"
+},
+{
+"ID": 299,
+"Codes": "F2",
+"Model": "CI",
+"Description": "Fan/APS"
+},
+{
+"ID": 300,
+"Codes": "F20",
+"Model": "Xtramax HE",
+"Description": "Software incompatibility"
+},
+{
+"ID": 301,
+"Codes": "F20",
+"Model": "sxi",
+"Description": "Software incompatibility"
+},
+{
+"ID": 302,
+"Codes": "F20",
+"Model": "SI",
+"Description": "Software incompatibility"
+},
+{
+"ID": 303,
+"Codes": "F20",
+"Model": "hxi",
+"Description": "Software incompatibility"
+},
+{
+"ID": 304,
+"Codes": "F20",
+"Model": "cxi",
+"Description": "Software incompatibility"
+},
+{
+"ID": 305,
+"Codes": "F20",
+"Model": "CI Plus",
+"Description": "Software incompatibility"
+},
+{
+"ID": 306,
+"Codes": "F20",
+"Model": "CI",
+"Description": "Software incompatibility"
+},
+{
+"ID": 307,
+"Codes": "F22",
+"Model": "Ultrapower sxi",
+"Description": "Low water pressure or ignition temperature rise too slow"
+},
+{
+"ID": 308,
+"Codes": "F22",
+"Model": "Ultracom sxi",
+"Description": "Low water pressure or ignition temperature rise too slow"
+},
+{
+"ID": 309,
+"Codes": "F22",
+"Model": "Ultracom hxi",
+"Description": "Low water pressure or ignition temperature rise too slow"
+},
+{
+"ID": 310,
+"Codes": "F22",
+"Model": "Ultracom cx",
+"Description": "Low water pressure or ignition temperature rise too slow"
+},
+{
+"ID": 311,
+"Codes": "F22",
+"Model": "Ultracom cxi",
+"Description": "Low water pressure or ignition temperature rise too slow"
+},
+{
+"ID": 312,
+"Codes": "F22",
+"Model": "flexicom sx",
+"Description": "Low water pressure or ignition temperature rise too slow"
+},
+{
+"ID": 313,
+"Codes": "F22",
+"Model": "flexicom hx",
+"Description": "Low water pressure or ignition temperature rise too slow"
+},
+{
+"ID": 314,
+"Codes": "F22",
+"Model": "flexicom cx",
+"Description": "Low water pressure or ignition temperature rise too slow"
+},
+{
+"ID": 315,
+"Codes": "F23",
+"Model": "Xtramax HE",
+"Description": "Water circulation fault"
+},
+{
+"ID": 316,
+"Codes": "F24",
+"Model": "Xtramax HE",
+"Description": "Cental heating return temperature > 90 degrees"
+},
+{
+"ID": 317,
+"Codes": "F24",
+"Model": "sxi",
+"Description": "Cental heating return temperature > 90 degrees"
+},
+{
+"ID": 318,
+"Codes": "F24",
+"Model": "hxi",
+"Description": "Cental heating return temperature > 90 degrees"
+},
+{
+"ID": 319,
+"Codes": "F24",
+"Model": "flexicom cx",
+"Description": "Central heating return temperature > 90 degrees"
+},
+{
+"ID": 320,
+"Codes": "F24",
+"Model": "cxi",
+"Description": "Central heating return temperature > 90 degrees"
+},
+{
+"ID": 321,
+"Codes": "F25",
+"Model": "Xtramax HE",
+"Description": "Maximum temperature rise slope"
+},
+{
+"ID": 322,
+"Codes": "F25",
+"Model": "Ultrapower sxi",
+"Description": "Circulation fault"
+},
+{
+"ID": 323,
+"Codes": "F25",
+"Model": "Ultracom sxi",
+"Description": "Circulation fault"
+},
+{
+"ID": 324,
+"Codes": "F25",
+"Model": "Ultracom hxi",
+"Description": "Circulation fault"
+},
+{
+"ID": 325,
+"Codes": "F25",
+"Model": "Ultracom cx",
+"Description": "Circulation fault"
+},
+{
+"ID": 326,
+"Codes": "F25",
+"Model": "Ultracom cxi",
+"Description": "Circulation fault"
+},
+{
+"ID": 327,
+"Codes": "F25",
+"Model": "sxi",
+"Description": "Poor circulation"
+},
+{
+"ID": 328,
+"Codes": "F25",
+"Model": "hxi",
+"Description": "Poor circulation"
+},
+{
+"ID": 329,
+"Codes": "F25",
+"Model": "flexicom sx",
+"Description": "Circulation fault"
+},
+{
+"ID": 330,
+"Codes": "F25",
+"Model": "flexicom hx",
+"Description": "Circulation fault"
+},
+{
+"ID": 331,
+"Codes": "F25",
+"Model": "flexicom cx",
+"Description": "Circulation fault"
+},
+{
+"ID": 332,
+"Codes": "F25",
+"Model": "cxi",
+"Description": "Poor circulation"
+},
+{
+"ID": 333,
+"Codes": "F26",
+"Model": "Xtramax HE",
+"Description": "Maximum delta temperature"
+},
+{
+"ID": 334,
+"Codes": "F26",
+"Model": "sxi",
+"Description": "Poor circulation"
+},
+{
+"ID": 335,
+"Codes": "F26",
+"Model": "hxi",
+"Description": "Poor circulation"
+},
+{
+"ID": 336,
+"Codes": "F26",
+"Model": "cxi",
+"Description": "Poor circulation"
+},
+{
+"ID": 337,
+"Codes": "F3",
+"Model": "Xtramax HE",
+"Description": "Fan"
+},
+{
+"ID": 338,
+"Codes": "F3",
+"Model": "Ultrapower sxi",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 339,
+"Codes": "F3",
+"Model": "Ultracom sxi",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 340,
+"Codes": "F3",
+"Model": "Ultracom hxi",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 341,
+"Codes": "F3",
+"Model": "Ultracom cx",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 342,
+"Codes": "F3",
+"Model": "Ultracom cxi",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 343,
+"Codes": "F3",
+"Model": "sxi",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 344,
+"Codes": "F3",
+"Model": "hxi",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 345,
+"Codes": "F3",
+"Model": "flexicom sx",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 346,
+"Codes": "F3",
+"Model": "flexicom hx",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 347,
+"Codes": "F3",
+"Model": "flexicom cx",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 348,
+"Codes": "F3",
+"Model": "cxi",
+"Description": "Fan unable to reach ignition speed"
+},
+{
+"ID": 349,
+"Codes": "F3",
+"Model": "CI Plus",
+"Description": "Air fault"
+},
+{
+"ID": 350,
+"Codes": "F4",
+"Model": "Xtramax HE",
+"Description": "Ignition fault"
+},
+{
+"ID": 351,
+"Codes": "F4",
+"Model": "Ultrapower sxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 352,
+"Codes": "F4",
+"Model": "Ultracom sxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 353,
+"Codes": "F4",
+"Model": "Ultracom hxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 354,
+"Codes": "F4",
+"Model": "Ultracom cx",
+"Description": "Ignition fault"
+},
+{
+"ID": 355,
+"Codes": "F4",
+"Model": "Ultracom cxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 356,
+"Codes": "F4",
+"Model": "sxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 357,
+"Codes": "F4",
+"Model": "SI",
+"Description": "Ignition fault"
+},
+{
+"ID": 358,
+"Codes": "F4",
+"Model": "hxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 359,
+"Codes": "F4",
+"Model": "flexicom sx",
+"Description": "Ignition fault"
+},
+{
+"ID": 360,
+"Codes": "F4",
+"Model": "flexicom hx",
+"Description": "Ignition fault"
+},
+{
+"ID": 361,
+"Codes": "F4",
+"Model": "flexicom cx",
+"Description": "Ignition fault"
+},
+{
+"ID": 362,
+"Codes": "F4",
+"Model": "cxi",
+"Description": "Ignition fault"
+},
+{
+"ID": 363,
+"Codes": "F4",
+"Model": "CI Plus",
+"Description": "Ignition fault"
+},
+{
+"ID": 364,
+"Codes": "F4",
+"Model": "CI",
+"Description": "Ignition fault"
+},
+{
+"ID": 365,
+"Codes": "F43",
+"Model": "Ultrapower sxi",
+"Description": "Generic error"
+},
+{
+"ID": 366,
+"Codes": "F43",
+"Model": "Ultracom sxi",
+"Description": "Generic error"
+},
+{
+"ID": 367,
+"Codes": "F43",
+"Model": "Ultracom hxi",
+"Description": "Generic error"
+},
+{
+"ID": 368,
+"Codes": "F43",
+"Model": "Ultracom cx",
+"Description": "Generic error"
+},
+{
+"ID": 369,
+"Codes": "F43",
+"Model": "Ultracom cxi",
+"Description": "Generic error"
+},
+{
+"ID": 370,
+"Codes": "F43",
+"Model": "flexicom sx",
+"Description": "Generic error"
+},
+{
+"ID": 371,
+"Codes": "F43",
+"Model": "flexicom hx",
+"Description": "Generic error"
+},
+{
+"ID": 372,
+"Codes": "F43",
+"Model": "flexicom cx",
+"Description": "Generic error"
+},
+{
+"ID": 373,
+"Codes": "F5",
+"Model": "Xtramax HE",
+"Description": "Overheat Fault"
+},
+{
+"ID": 374,
+"Codes": "F5",
+"Model": "Ultrapower sxi",
+"Description": "Overheat Fault"
+},
+{
+"ID": 375,
+"Codes": "F5",
+"Model": "Ultracom sxi",
+"Description": "Overheat Fault"
+},
+{
+"ID": 376,
+"Codes": "F5",
+"Model": "Ultracom hxi",
+"Description": "Overheat Fault"
+},
+{
+"ID": 377,
+"Codes": "F5",
+"Model": "Ultracom cx",
+"Description": "Overheat Fault"
+},
+{
+"ID": 378,
+"Codes": "F5",
+"Model": "Ultracom cxi",
+"Description": "Overheat Fault"
+},
+{
+"ID": 379,
+"Codes": "F5",
+"Model": "sxi",
+"Description": "Overheat Fault"
+},
+{
+"ID": 380,
+"Codes": "F5",
+"Model": "SI",
+"Description": "Overheat Fault"
+},
+{
+"ID": 381,
+"Codes": "F5",
+"Model": "hxi",
+"Description": "Overheat Fault"
+},
+{
+"ID": 382,
+"Codes": "F5",
+"Model": "flexicom sx",
+"Description": "Overheat Fault"
+},
+{
+"ID": 383,
+"Codes": "F5",
+"Model": "flexicom hx",
+"Description": "Overheat Fault"
+},
+{
+"ID": 384,
+"Codes": "F5",
+"Model": "flexicom cx",
+"Description": "Overheat Fault"
+},
+{
+"ID": 385,
+"Codes": "F5",
+"Model": "cxi",
+"Description": "Overheat Fault"
+},
+{
+"ID": 386,
+"Codes": "F5",
+"Model": "CI Plus",
+"Description": "Overheat Fault"
+},
+{
+"ID": 387,
+"Codes": "F5",
+"Model": "CI",
+"Description": "Overheat Fault"
+},
+{
+"ID": 388,
+"Codes": "F6",
+"Model": "Xtramax HE",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 389,
+"Codes": "F6",
+"Model": "Ultrapower sxi",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 390,
+"Codes": "F6",
+"Model": "Ultracom sxi",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 391,
+"Codes": "F6",
+"Model": "Ultracom hxi",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 392,
+"Codes": "F6",
+"Model": "Ultracom cx",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 393,
+"Codes": "F6",
+"Model": "Ultracom cxi",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 394,
+"Codes": "F6",
+"Model": "sxi",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 395,
+"Codes": "F6",
+"Model": "SI",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 396,
+"Codes": "F6",
+"Model": "hxi",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 397,
+"Codes": "F6",
+"Model": "flexicom sx",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 398,
+"Codes": "F6",
+"Model": "flexicom hx",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 399,
+"Codes": "F6",
+"Model": "flexicom cx",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 400,
+"Codes": "F6",
+"Model": "cxi",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 401,
+"Codes": "F6",
+"Model": "CI Plus",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 402,
+"Codes": "F6",
+"Model": "CI",
+"Description": "Central heating flow thermistor"
+},
+{
+"ID": 403,
+"Codes": "F7",
+"Model": "Xtramax HE",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 404,
+"Codes": "F7",
+"Model": "sxi",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 405,
+"Codes": "F7",
+"Model": "SI",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 406,
+"Codes": "F7",
+"Model": "hxi",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 407,
+"Codes": "F7",
+"Model": "flexicom sx",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 408,
+"Codes": "F7",
+"Model": "flexicom cx",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 409,
+"Codes": "F7",
+"Model": "cxi",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 410,
+"Codes": "F7",
+"Model": "CI Plus",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 411,
+"Codes": "F7",
+"Model": "CI",
+"Description": "Domestic hot water thermistor"
+},
+{
+"ID": 412,
+"Codes": "F70",
+"Model": "Ultrapower sxi",
+"Description": "Software incompatible"
+},
+{
+"ID": 413,
+"Codes": "F70",
+"Model": "Ultracom sxi",
+"Description": "Software incompatible"
+},
+{
+"ID": 414,
+"Codes": "F70",
+"Model": "Ultracom hxi",
+"Description": "Software incompatible"
+},
+{
+"ID": 415,
+"Codes": "F70",
+"Model": "Ultracom cx",
+"Description": "Software incompatible"
+},
+{
+"ID": 416,
+"Codes": "F70",
+"Model": "Ultracom cxi",
+"Description": "Software incompatible"
+},
+{
+"ID": 417,
+"Codes": "F70",
+"Model": "flexicom sx",
+"Description": "Software incompatible"
+},
+{
+"ID": 418,
+"Codes": "F70",
+"Model": "flexicom hx",
+"Description": "Software incompatible"
+},
+{
+"ID": 419,
+"Codes": "F70",
+"Model": "flexicom cx",
+"Description": "Software incompatible"
+},
+{
+"ID": 420,
+"Codes": "F73",
+"Model": "Ultrapower sxi",
+"Description": "Unable to see pump activate"
+},
+{
+"ID": 421,
+"Codes": "F73",
+"Model": "Ultracom sxi",
+"Description": "Unable to see pump activate"
+},
+{
+"ID": 422,
+"Codes": "F73",
+"Model": "Ultracom hxi",
+"Description": "Unable to see pump activate"
+},
+{
+"ID": 423,
+"Codes": "F73",
+"Model": "Ultracom cx",
+"Description": "Unable to see pump activate"
+},
+{
+"ID": 424,
+"Codes": "F73",
+"Model": "Ultracom cxi",
+"Description": "Unable to see pump activate"
+},
+{
+"ID": 425,
+"Codes": "F73",
+"Model": "flexicom sx",
+"Description": "Unable to see pump activate"
+},
+{
+"ID": 426,
+"Codes": "F73",
+"Model": "flexicom hx",
+"Description": "Unable to see pump activate"
+},
+{
+"ID": 427,
+"Codes": "F73",
+"Model": "flexicom cx",
+"Description": "Unable to see pump activate"
+},
+{
+"ID": 428,
+"Codes": "F77",
+"Model": "Ultrapower sxi",
+"Description": "Condensate pump error (optional)"
+},
+{
+"ID": 429,
+"Codes": "F77",
+"Model": "Ultracom sxi",
+"Description": "Condensate pump error (optional)"
+},
+{
+"ID": 430,
+"Codes": "F77",
+"Model": "Ultracom hxi",
+"Description": "Condensate pump error (optional)"
+},
+{
+"ID": 431,
+"Codes": "F77",
+"Model": "Ultracom cx",
+"Description": "Condensate pump error (optional)"
+},
+{
+"ID": 432,
+"Codes": "F77",
+"Model": "Ultracom cxi",
+"Description": "Condensate pump error (optional)"
+},
+{
+"ID": 433,
+"Codes": "F77",
+"Model": "flexicom sx",
+"Description": "Condensate pump error (optional)"
+},
+{
+"ID": 434,
+"Codes": "F77",
+"Model": "flexicom hx",
+"Description": "Condensate pump error (optional)"
+},
+{
+"ID": 435,
+"Codes": "F77",
+"Model": "flexicom cx",
+"Description": "Condensate pump error (optional)"
+},
+{
+"ID": 436,
+"Codes": "F8",
+"Model": "Xtramax HE",
+"Description": "Tank thermistor"
+},
+{
+"ID": 437,
+"Codes": "F8",
+"Model": "sxi",
+"Description": "Tank thermistor (N/A For this appliance)"
+},
+{
+"ID": 438,
+"Codes": "F8",
+"Model": "SI",
+"Description": "Tank thermistor (N/A For this appliance)"
+},
+{
+"ID": 439,
+"Codes": "F8",
+"Model": "hxi",
+"Description": "Tank thermistor (N/A For this appliance)"
+},
+{
+"ID": 440,
+"Codes": "F8",
+"Model": "cxi",
+"Description": "Tank thermistor (N/A For this appliance)"
+},
+{
+"ID": 441,
+"Codes": "F8",
+"Model": "CI Plus",
+"Description": "Tank thermistor (N/A For this appliance)"
+},
+{
+"ID": 442,
+"Codes": "F8",
+"Model": "CI",
+"Description": "Tank thermistor (N/A For this appliance)"
+},
+{
+"ID": 443,
+"Codes": "F9",
+"Model": "Xtramax HE",
+"Description": "Water pressure sensor fault (please contact GW technical department for further information)"
+},
+{
+"ID": 444,
+"Codes": "F9",
+"Model": "Ultrapower sxi",
+"Description": "Water pressure sensor fault, blocked flow filter or pump fault"
+},
+{
+"ID": 445,
+"Codes": "F9",
+"Model": "Ultracom sxi",
+"Description": "Water pressure sensor fault, blocked flow filter or pump fault"
+},
+{
+"ID": 446,
+"Codes": "F9",
+"Model": "Ultracom hxi",
+"Description": "Water pressure sensor fault, blocked flow filter or pump fault"
+},
+{
+"ID": 447,
+"Codes": "F9",
+"Model": "Ultracom cx",
+"Description": "Water pressure sensor fault, blocked flow filter or pump fault"
+},
+{
+"ID": 448,
+"Codes": "F9",
+"Model": "Ultracom cxi",
+"Description": "Water pressure sensor fault, blocked flow filter or pump fault"
+},
+{
+"ID": 449,
+"Codes": "F9",
+"Model": "sxi",
+"Description": "Water pressure sensor fault (please contact GW technical department for further information)"
+},
+{
+"ID": 450,
+"Codes": "F9",
+"Model": "SI",
+"Description": "Water pressure sensor fault (please contact GW technical department for further information)"
+},
+{
+"ID": 451,
+"Codes": "F9",
+"Model": "hxi",
+"Description": "Earlier models only (please contact GW technical department for further information)"
+},
+{
+"ID": 452,
+"Codes": "F9",
+"Model": "flexicom sx",
+"Description": "Low water pressure Sensor"
+},
+{
+"ID": 453,
+"Codes": "F9",
+"Model": "flexicom hx",
+"Description": "Low water pressure Sensor"
+},
+{
+"ID": 454,
+"Codes": "F9",
+"Model": "flexicom cx",
+"Description": "Water pressure sensor fault, blocked flow filter or pump fault"
+},
+{
+"ID": 455,
+"Codes": "F9",
+"Model": "cxi",
+"Description": "Water pressure sensor fault (please contact GW technical department for further information"
+},
+{
+"ID": 456,
+"Codes": "F9",
+"Model": "CI Plus",
+"Description": "Water pressure sensor fault (please contact GW technical department for further information"
+},
+{
+"ID": 457,
+"Codes": "F9",
+"Model": "CI",
+"Description": "Water pressure sensor fault (please contact GW technical department for further information"
+},
+{
+"ID": 458,
+"Codes": "No display or Er",
+"Model": "Ultrapower sxi",
+"Description": "loose connection X51"
+},
+{
+"ID": 459,
+"Codes": "No display or Er",
+"Model": "Ultracom sxi",
+"Description": "loose connection X51"
+},
+{
+"ID": 460,
+"Codes": "No display or Er",
+"Model": "Ultracom hxi",
+"Description": "loose connection X51"
+},
+{
+"ID": 461,
+"Codes": "No display or Er",
+"Model": "Ultracom cx",
+"Description": "loose connection X51"
+},
+{
+"ID": 462,
+"Codes": "No display or Er",
+"Model": "Ultracom cxi",
+"Description": "loose connection X51"
+}
+]
